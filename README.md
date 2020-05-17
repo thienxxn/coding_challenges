@@ -1,1 +1,1 @@
-# coding_challenges
+# Coding challenges via Processing/Python
